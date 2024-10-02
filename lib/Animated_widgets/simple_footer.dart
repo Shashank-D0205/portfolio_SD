@@ -5,7 +5,6 @@ import 'package:portfolio/Screens/socials.dart';
 import 'animated_line_through_text.dart';
 import 'package:flutter/material.dart';
 import 'package:portfolio/values/spaces.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 
 class SimpleFooter extends StatelessWidget {

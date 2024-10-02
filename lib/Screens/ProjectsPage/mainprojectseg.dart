@@ -3,7 +3,6 @@ import 'package:portfolio/values/values.dart';
 import 'package:visibility_detector/visibility_detector.dart';
 
 import '../../Animated_widgets/animated_line_through_text.dart';
-import '../../Animated_widgets/animated_positioned_text.dart';
 import '../../Animated_widgets/animated_text_slide_box_transition.dart';
 import '../screen_utils.dart';
 import '../functions.dart';
