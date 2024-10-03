@@ -217,7 +217,7 @@ class StringConst {
   static const String CV_DETAIL =
       "SDev is the initial version of my portfolio—a sleek and refined website crafted to enable developers to present their journey by highlighting their skills and projects";
   static const String CV_GITHUB_URL =
-      "";
+      "https://github.com/Shashank-D0205/portfolio_SD";
   // static const String CV_PLAYSTORE_URL =
   //     "";
   static const String CV_WEB_URL = " ";
@@ -240,6 +240,6 @@ class StringConst {
   static const String VISUELT_PRO = "VisueltPro";
 
   //API
-  static const String BASE_URL = "https://portfolio-api-liart.vercel.app/api";
+  static const String BASE_URL = "https://portfolio-sd-src6.vercel.app/";
   static const String GET_IN_TOUCH_POINT = "/getintouch";
 }
